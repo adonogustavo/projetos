@@ -1,0 +1,10 @@
+bsp_driver_sd.c:72:9:BSP_SD_Init	16	static
+bsp_driver_sd.c:102:9:BSP_SD_ITConfig	4	static
+bsp_driver_sd.c:120:9:BSP_SD_ReadBlocks	40	static
+bsp_driver_sd.c:143:9:BSP_SD_WriteBlocks	40	static
+bsp_driver_sd.c:165:9:BSP_SD_ReadBlocks_DMA	32	static
+bsp_driver_sd.c:188:9:BSP_SD_WriteBlocks_DMA	32	static
+bsp_driver_sd.c:210:9:BSP_SD_Erase	24	static
+bsp_driver_sd.c:233:9:BSP_SD_GetCardState	8	static
+bsp_driver_sd.c:243:6:BSP_SD_GetCardInfo	16	static
+bsp_driver_sd.c:255:9:BSP_SD_IsDetected	16	static

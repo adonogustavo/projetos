@@ -1,5 +1,0 @@
-usbh_pipes.c:91:20:USBH_OpenPipe	32	static
-usbh_pipes.c:119:20:USBH_ClosePipe	16	static
-usbh_pipes.c:136:9:USBH_AllocPipe	24	static
-usbh_pipes.c:156:20:USBH_FreePipe	16	static
-usbh_pipes.c:171:17:USBH_GetFreePipe	24	static

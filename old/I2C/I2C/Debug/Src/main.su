@@ -1,9 +1,0 @@
-main.c:86:8:write_lcd	8	static
-main.c:121:8:string_lcd	8	static
-main.c:127:8:init_LCD	16	static
-main.c:134:6:clear_LCD	8	static
-main.c:139:6:escrita_relogio	8	static
-main.c:163:7:leitura_relogio	32	static
-main.c:258:6:SystemClock_Config	120	static
-main.c:202:5:main	56	static
-main.c:436:6:_Error_Handler	0	static
